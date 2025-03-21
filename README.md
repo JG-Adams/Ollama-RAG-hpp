@@ -52,11 +52,13 @@ Place a text file (cat-facts.txt) in the same directory. The program will embed 
 When prompted, enter a query. The system will retrieve relevant information and generate a response using Ollama.
 
 ## Example
-`Ask me a question (quit to exit): How fast do cat run?
+```
+Ask me a question (quit to exit): How fast do cat run?
 Retrieved knowledge:
-  (similarity: 0.803109) A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.
+  - (similarity: 0.803109) A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.
 Chatbot respond:
-Cats can travel at a top speed of approximately 31 mph (49 km) over a short distance, typically when they are chasing prey or running to catch up with something. However, their average running speed is usually much slower, around 5-8 mph (8-13 km/h), depending on the individual cat and its age, size, and health.`
+Cats can travel at a top speed of approximately 31 mph (49 km) over a short distance, typically when they are chasing prey or running to catch up with something. However, their average running speed is usually much slower, around 5-8 mph (8-13 km/h), depending on the individual cat and its age, size, and health.
+```
 
 ## License
 
