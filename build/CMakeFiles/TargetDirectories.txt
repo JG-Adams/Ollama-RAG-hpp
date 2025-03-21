@@ -1,3 +1,0 @@
-/home/john/RAGcpp/build/CMakeFiles/RAG.dir
-/home/john/RAGcpp/build/CMakeFiles/edit_cache.dir
-/home/john/RAGcpp/build/CMakeFiles/rebuild_cache.dir
