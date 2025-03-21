@@ -1,1 +1,0 @@
-/run/media/john/New Volume/JGUniverse/Software/Technology/Online codes/ollama-hpp-master/singleheader/ollama.hpp
