@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(OLLAMA_HPP VERSION 0.9.0)
+project(OLLAMA_RAGHPP VERSION 0.1.0)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSION OFF)
@@ -19,4 +19,5 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 
-add_executable(RAG main.cpp src/RAG.cpp)
+add_executable(RAG main.cpp)
+include_directories("src")
