@@ -1,4 +1,4 @@
-# Ollama-RAGhpp
+# C++ Ollama-RAG-hpp
 
 A lightweight Retrieval-Augmented Generation (RAG) system in C++ using Ollama-hpp for local language model inference and embedding-based retrieval.
 
