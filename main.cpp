@@ -2,7 +2,6 @@
 #include <thread>
 #include <atomic>
 
-#include "ollama.hpp"
 #include "RAG.h"
 
 const std::string EMBEDDING_MODEL = "hf.co/CompendiumLabs/bge-base-en-v1.5-gguf";
