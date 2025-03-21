@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/john/RAGcpp/build",
+  "command": "/usr/bin/g++ -I/home/john/RAGcpp/include -g -std=gnu++17 -Wall -Wpedantic -o CMakeFiles/RAG.dir/example.cpp.o -c /home/john/RAGcpp/example.cpp",
+  "file": "/home/john/RAGcpp/example.cpp",
+  "output": "CMakeFiles/RAG.dir/example.cpp.o"
+}
+]
