@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/john/Documents/Ollama-RAG-hpp/build",
+  "command": "/usr/bin/g++ -I/home/john/Documents/Ollama-RAG-hpp/include -g -std=gnu++11 -Wall -Wpedantic -o CMakeFiles/RAG.dir/example.cpp.o -c /home/john/Documents/Ollama-RAG-hpp/example.cpp",
+  "file": "/home/john/Documents/Ollama-RAG-hpp/example.cpp",
+  "output": "CMakeFiles/RAG.dir/example.cpp.o"
+}
+]
