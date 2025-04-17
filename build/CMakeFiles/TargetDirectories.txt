@@ -1,3 +1,0 @@
-/home/john/Documents/Ollama-RAG-hpp/build/CMakeFiles/RAG.dir
-/home/john/Documents/Ollama-RAG-hpp/build/CMakeFiles/edit_cache.dir
-/home/john/Documents/Ollama-RAG-hpp/build/CMakeFiles/rebuild_cache.dir
