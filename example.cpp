@@ -78,6 +78,7 @@ int main() {
                 if (response.as_json()["done"]==true) {
                     AI_busy = false;
                 }
+                return true; // Keep streaming. Use false to abort anytime.
             });
             std::cout << "\n";
         }else{
